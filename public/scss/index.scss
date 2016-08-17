@@ -1,0 +1,28 @@
+$header--bg-color: #00897B;
+$header-height: 80px;
+$header-color: #fff;
+body {
+  background: #eee;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-size: 24px;
+  margin: 0;
+  line-height: $header-height;
+}
+
+header {
+  background: $header--bg-color;
+  height: $header-height;
+  color: $header-color;
+  padding: 0 15px;
+}
+main{
+  max-width:1024px;
+  margin:auto;
+}
+footer{
+  clear:both;
+}

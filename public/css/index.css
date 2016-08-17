@@ -1,0 +1,24 @@
+body {
+  background: #eee;
+  margin: 0;
+  padding: 0; }
+
+h1 {
+  font-size: 24px;
+  margin: 0;
+  line-height: 80px; }
+
+header {
+  background: #00897B;
+  height: 80px;
+  color: #fff;
+  padding: 0 15px; }
+
+main {
+  max-width: 1024px;
+  margin: auto; }
+
+footer {
+  clear: both; }
+
+/*# sourceMappingURL=index.css.map */
